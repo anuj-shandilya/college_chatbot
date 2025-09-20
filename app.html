@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CMRIT Chatbot</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="CMRIT_logo">
+        <img src="cmrit_logo.png" alt="">
+    </div>
+    <div class="chat-container" role="main" aria-label="Chatbot window">
+        <div class="logo" aria-live="polite">
+            CMRIT Chatbot
+        </div>
+
+        <!-- Chat messages box -->
+        <div id="chat-box" aria-live="polite" aria-relevant="additions" role="log" tabindex="0">
+
+        </div>
+
+        <!-- Input area -->
+        <div class="input-container">
+            <input type="text" id="user-input" aria-label="Enter your message" placeholder="Write your message..."
+                autocomplete="off" />
+            <button aria-label="Send message">Send</button>
+        </div>
+    </div>
+
+
+    <script src="server.js"></script>
+</body>
+
+</html>

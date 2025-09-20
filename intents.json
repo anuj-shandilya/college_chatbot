@@ -1,0 +1,349 @@
+[
+    {
+        "tag": "admission",
+        "keywords": [
+            "admission",
+            "apply",
+            "application",
+            "procedure",
+            "eligibility",
+            "criteria",
+            "entrance",
+            "form",
+            "deadline"
+        ],
+        "response": "The admission procedure includes filling the online application form, appearing for the entrance exam if applicable, and submitting the required documents before the deadline."
+    },
+    {
+        "tag": "fee_structure",
+        "keywords": [
+            "fee",
+            "fees",
+            "structure",
+            "tuition",
+            "payment",
+            "installment",
+            "cost",
+            "expense"
+        ],
+        "response": "The fee structure varies depending on the course and department. Tuition fees can be paid in installments through online payment or directly at the accounts office.You can contact to the college through the provided number 9342900666 "
+    },
+    {
+        "tag": "courses",
+        "keywords": [
+            "course",
+            "courses",
+            "program",
+            "programs",
+            "department",
+            "departments",
+            "subjects",
+            "streams",
+            "majors"
+        ],
+        "response": "Our college offers a wide variety of programs including Computer Science Engg, Information Science Engg,Electronics & Communication Engg, Artificial Intelligence & Machine Learning Engg, Artificial Intelligence & Data Science Engg, Computer Science & Engineering (AI and ML)Computer Science & Engineering (Data Science)."
+    },
+    {
+        "tag": "hods_info",
+        "keywords": [
+            "hod",
+            "hods"
+        ],
+        "response": "the emails of all hods are provided in this section:-Dr.Pappa .M <hod.ece@cmrit.ac.in>, Dr.Kesavamoorthy R. <hod.cse@cmrit.ac.in>, Dr.Shanthi MB <hod.aids@cmrit.ac.in>, Dr.Shyam P Joy <hod.aiml@cmrit.ac.in>, Preeti Jacob <hod.civil@cmrit.ac.in>, Dr. Jagadishwari V <hod.ise@cmrit.ac.in>, Dr. Chitra K <hod.eee@cmrit.ac.in>, Dr. B Rajendra Prasad Reddy <hod.mech@cmrit.ac.in>, Dr. Fazlur Rahaman <hod.chemistry@cmrit.ac.in>, Dr. Raveesha K H <hod.physics@cmrit.ac.in>, Dr.K. Meenakshi <hod.maths@cmrit.ac.in>"
+    },
+    {
+        "tag": "exam_results",
+        "keywords": [
+            "exam",
+            "exams",
+            "result",
+            "results",
+            "marks",
+            "score",
+            "grade",
+            "grades",
+            "evaluation"
+        ],
+        "response": "Exam results are published on the official student portal within 45 days after the examinations. Students can check their marks, grades, and download their mark sheets online."
+    },
+    {
+        "tag": "nirf_ranking",
+        "keywords": [
+            "nirf",
+            "ranking",
+            "rank",
+            "top"
+        ],
+        "response": "The NIRF ranking of cmrit comes in 151-200 range among 1453 colleges from all over india , CMRIT comes in top 10 colleges in BENGALURU,KARNATAKA."
+    },
+    {
+        "tag": "ragging_policies",
+        "keywords": [
+            "ragging",
+            "policies",
+            "rag"
+        ],
+        "response": "There is strict anti ragging policies in CMRIT, any one who do these have to answer to the authorities and action will be taken against such people or student."
+    },
+    {
+        "tag": "college_campus",
+        "keywords": [
+            "campus"
+        ],
+        "response": "CMRIT (CMR Institute of Technology) campus is located in Whitefield, Bangalore, in South India's IT corridor. It's a well-connected and accessible location, spread over 8 acres. The campus features a central library, state-of-the-art ICT facilities, seminar halls, auditoriums, and dedicated spaces for placements. "
+    },
+    {
+        "tag": "enrollment",
+        "keywords": [
+            "enroll",
+            "enrollment",
+            "registration",
+            "register",
+            "joining",
+            "admission_confirmation",
+            "document_submission"
+        ],
+        "response": "Enrollment takes place after admission is confirmed. Students need to register for their course, submit required documents, and complete the fee payment to finalize enrollment.contact us on info@cmrit.ac.in"
+    },
+    {
+        "tag": "hostel",
+        "keywords": [
+            "hostel",
+            "accommodation",
+            "rooms",
+            "lodging",
+            "residence",
+            "mess",
+            "dormitory",
+            "hostel_fee",
+            "wifi"
+        ],
+        "response": "Our college provides separate hostel facilities for boys and girls with fully furnished rooms, WiFi, mess facility, study halls, and recreational areas. Hostel accommodation is available on a first-come, first-served basis."
+    },
+    {
+        "tag": "placement",
+        "keywords": [
+            "placement",
+            "placements",
+            "job",
+            "jobs",
+            "campus_recruitment",
+            "internship",
+            "career",
+            "employability",
+            "opportunity",
+            "company",
+            "companies",
+            "recruiters"
+        ],
+        "response": "Our placement cell actively organizes campus recruitment drives and internships.\n\nCMRIT Recruiter's list:\n314e, Envision, Juspay, Accenture, EPAM, k12 Techno Services, Agile Capital, Ephiphany, Kenscio, Aim India Group, Epicor, Kesaya, Allstate Solutions, Epsilon, KOCH Industries, Altimetrik, Eurofins, KPMG, Amadeus, ExtraMarks, KVP, Amazon, EY, Kyndryl (IBM), Analytics Quotient, FACE, L&T Technology Services, Andpad – Japan, FEDERAL BANK, Laurus Infosystems, Apisero, Fincity, Laurus Labs, Atkins Global, FIS Global, Leviosa, Autoliv, Fokal Analytics, Logituit, BIAS Corporation, G7CR Technologies, LTI, Bidgely Technologies, GE, LUMINUS, Blume Global, General Motors, Manhattan Associates, Bosch Global, GlobalLogic, Maplelabs, Brane Enterprises, Goldman Sachs, Maventic, Bridge SG, Google, Mcube VMC, Brigade Group, Gyansys, Meltronics, Brillio, Happiest Minds, Mercedes Benz, Byju's, HashedIn, Mindtree, Canbright – Japan, HCL Tech, Mobiveil, Capgemini, Hexaware, Molex, Career Labs, HGS, MoveInSync, CareerNet, Hindustan Unilever, Mphasis, Cerner, Hitachi Energy, Mscripts, Chainalytics, Hitachi Solutions, Musigma, Cimpress, Hitachi Vantara, MyCaptain, Cisco, Hiver, Nagravision, Clarivate Analytics, HP Inc, NCL, Cloud CIRCUS – Japan, HPE, Nestle, Codilar Technologies, Huawei, NetGear, Cognizant, Huran Eurasia, NEUDESIC, Comviva, IAST Software, Nilenso, Continental Automotive, IBC Co (Zenken), Novozymes, CRMIT Solutions, IBM, NTT Data, CSS Corp, ICICI, Nutanix, Cyient, Ignitarium, Nvipani, Daily hunt, IHS Markit, Ontum Education, Danske IT, iJeeva, OpenText, DAT Freight & Analytics, Illumine Labs, Oracle, Decathlon, Impelsys, Orbi Health, Dell EMC, Indegene, Peepal Consulting, Dell Technologies, Indian Railways, PEOL, Deloitte, Infogain, Pep Career Net, DeltaX, Infosys, PhonePe, DIGITAL HORIZONS, Inmobi, PK Global, DreamGains Financials, Inszoom, Plan-B – Japan, DXC, IntelliPaat, PlanetSpark, Eagleview, ITC Infotech, Practo Technologies, Ellucian, ITOrizon, Pravaig Dynamics, Emertxe, Jaro Education, PRDC, Employment Express, Johnson Controls, Prism Johnson, Entune IT Consulting, Josh Technologies, Pulse Secure, Sohga, Belc Co Ltd, Plan B, Japanese Research Institute, Light and Wonder, Ceptes, Think Laboratories, O9 Solutions, Hitachi Industrial Equipment system, KOSHIN Ltd, Hitachi Energy, Sanwa General Contractor, Conde Nast, Gida Technologies, Intellipat Software Solutions, Iron Mountain, Swiggy, Spinny, ESAF Bank, Blinkit, Wonksknow.\n\nHighest package offered for 2024 batch:\nCompany name: Belc Co Ltd with CTC: 29 LPA."
+    },
+    {
+        "tag": "scholarship",
+        "keywords": [
+            "scholarship",
+            "scholarships",
+            "financial_aid",
+            "fee_waiver",
+            "merit_scholarship",
+            "grant",
+            "fellowship",
+            "award"
+        ],
+        "response": "The college offers various scholarships based on merit, sports, and socio-economic conditions. Students can apply for government scholarships, fee waivers, and private fellowships through the scholarship office."
+    },
+    {
+        "tag": "library",
+        "keywords": [
+            "library",
+            "books",
+            "journals",
+            "ebooks",
+            "resources",
+            "study_material",
+            "reading_room",
+            "catalog",
+            "membership"
+        ],
+        "response": "Our library houses over 60,000 books, journals, and digital resources. Students can access e-books, research papers, and study materials through the online catalog. Library membership is issued during enrollment."
+    },
+    {
+        "tag": "contact",
+        "keywords": [
+            "contact",
+            "phone",
+            "email",
+            "address",
+            "location",
+            "reach",
+            "office_hours",
+            "support",
+            "helpdesk",
+            "details"
+        ],
+        "response": "You can contact the college at 9342900666 or email info@cmrit.ac.in. Our campus is located at 132 AECS Layout ITPL Main Road, Kundalahalli Bangalore 560037, India Office hours are from 9 AM to 5 PM, Monday to Saturday."
+    },
+    {
+        "tag": "events",
+        "keywords": [
+            "event",
+            "events",
+            "fest",
+            "cultural",
+            "techfest",
+            "seminar",
+            "workshop",
+            "conference",
+            "webinar"
+        ],
+        "response": "The college hosts a variety of events throughout the year including cultural fests, technical fests, seminars, workshops, and guest lectures. Event details are announced on the college website and notice boards."
+    },
+    {
+        "tag": "sports",
+        "keywords": [
+            "sport",
+            "sports",
+            "game",
+            "games",
+            "cricket",
+            "football",
+            "basketball",
+            "athletics",
+            "gym"
+        ],
+        "response": "Our sports department provides facilities for cricket, football, basketball, volleyball, and indoor games. We also have a gym and regularly organize inter-college sports tournaments."
+    },
+    {
+        "tag": "canteen",
+        "keywords": [
+            "canteen",
+            "cafeteria",
+            "food",
+            "snacks",
+            "refreshments",
+            "mess",
+            "lunch",
+            "dinner",
+            "menu"
+        ],
+        "response": "The college canteen serves hygienic and affordable food, snacks, and beverages throughout the day. Both vegetarian and non-vegetarian options are available at reasonable prices."
+    },
+    {
+        "tag": "greeting",
+        "keywords": [
+            "hello",
+            "hi",
+            "hii",
+            "hey",
+            "greetings",
+            "good_morning",
+            "good_afternoon",
+            "good_evening"
+        ],
+        "response": "Hello! How can I assist you today regarding CMRIT college related queries?"
+    },
+    {
+        "tag": "goodbye",
+        "keywords": [
+            "bye",
+            "goodbye",
+            "see_you",
+            "take_care",
+            "later",
+            "farewell"
+        ],
+        "response": "Goodbye! Feel free to ask any questions anytime. Have a great day!"
+    },
+    {
+        "tag": "created",
+        "keywords": [
+            "who created you",
+            "created",
+            "developer",
+            "made_you",
+            "creator"
+        ],
+        "response": "I was created by Anuj and his friends as part of a college chatbot project using JavaScript and natural language processing techniques."
+    },
+    {
+        "tag": "college_hours",
+        "keywords": [
+            "timing",
+            "college_hours",
+            "open_time",
+            "closing_time",
+            "working_hours",
+            "hours",
+            "office_hours"
+        ],
+        "response": "The college operates from 9 AM to 5 PM, Monday to Saturday. The administrative office follows the same timings."
+    },
+    {
+        "tag": "location",
+        "keywords": [
+            "location",
+            "where",
+            "situated",
+            "address",
+            "map",
+            "directions",
+            "campus_location"
+        ],
+        "response": "Our campus is located at ITPL Main Road, Phase 2, Brookefield, Bengaluru, Karnataka 560037, India — easily accessible via metro and public transport."
+    },
+    {
+        "tag": "facilities",
+        "keywords": [
+            "facilities",
+            "infrastructure",
+            "amenities",
+            "services",
+            "resources",
+            "available",
+            "campus_facilities"
+        ],
+        "response": "Our campus facilities include WiFi-enabled classrooms, computer labs, library, sports complex, hostels, gymnasium, auditorium, cafeteria, and canteen."
+    },
+    {
+        "tag": "transport_nearest",
+        "keywords": [
+            "nearest",
+            "nearby",
+            "bus_stop",
+            "bus",
+            "metro",
+            "station",
+            "transport",
+            "transportation",
+            "how_to_reach",
+            "reach"
+        ],
+        "response": "The nearest bus stop to CMR Institute of Technology (CMRIT) is in front of the college itself. The nearest metro station is Sitarampalya Metro Station, located approximately 1 km from the college. Both are easily accessible by walking or local transport."
+    },
+    {
+        "tag": "principal_vice_principal",
+        "keywords": [
+            "principal",
+            "vice-principal",
+            "head",
+            "director",
+            "management",
+            "faculty",
+            "institute",
+            "leadership"
+        ],
+        "response": "The principal of CMR Institute of Technology (CMRIT) is Dr. Sanjay Jain, and the vice-principal is Dr. B. Narasimha Murthy."
+    },
+    {
+        "tag": "identity",
+        "keywords": [
+            "yourself",
+            "you",
+            "are",
+            "name",
+            "chatbot",
+            "bot"
+        ],
+        "response": "I am the CMRIT Chatbot. I'm here to answer your questions about our college!"
+    }
+]
